@@ -23,7 +23,7 @@ This application is a simple document viewer built using the **Clay** UI layout 
 1. Clone the repository:
    ```bash
    git clone https://github.com/PDgaming/First-Clay-Project
-   cd [First-Clay-Project]
+   cd First-Clay-Project
    ```
 
 2. Download the Clay library:
